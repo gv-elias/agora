@@ -10,6 +10,3 @@
 
 <p>{numbers.join(' + ')} = {total}</p>
 
-<button onclick={addNumber}>
-	Add a number
-</button>
